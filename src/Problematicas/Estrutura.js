@@ -85,7 +85,7 @@ export default function Estrutura (){
                 </Paragrafos>
                 <Paragrafos>1.2- Construir ciclovias pela cidade devido a grande quantidade de ciclistas.
                 </Paragrafos>
-                <TextoA href=""><CaixaInicio>Início</CaixaInicio></TextoA>
+                <TextoA href="https://desenvolvimentodequeimados.netlify.app"><CaixaInicio>Início</CaixaInicio></TextoA>
             </Solucoes>
         </CaixaPrincipal>
     )

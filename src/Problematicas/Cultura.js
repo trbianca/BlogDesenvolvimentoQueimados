@@ -88,7 +88,7 @@ export default function Cultura (){
                 </Paragrafos>
                 <Paragrafos>1.2- Retornar com a comemoração do carnaval e com os shows no aniversário da cidade até 2026.</Paragrafos>
                 <Paragrafos>1.3- Investir na contrução de um teatro e de um cinema na cidade até 2035.</Paragrafos>
-                <TextoA href=""><CaixaInicio>Início</CaixaInicio></TextoA>
+                <TextoA href="https://desenvolvimentodequeimados.netlify.app"><CaixaInicio>Início</CaixaInicio></TextoA>
             </Solucoes>
         </CaixaPrincipal>
     )

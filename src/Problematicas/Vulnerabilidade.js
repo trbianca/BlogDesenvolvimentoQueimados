@@ -90,7 +90,7 @@ export default function Vunerabilidade (){
                 <ParagrafosObj>Objetivo 2- Retirar pessoas da situação de rua.</ParagrafosObj>
                 <Paragrafos>2.1- Aumentar as quantidades de abrigos pela cidade até 2025.</Paragrafos>
                 <Paragrafos>2.2- Criar abrigos femininos até 2023.</Paragrafos>
-                <TextoA href=""><CaixaInicio>Início</CaixaInicio></TextoA>
+                <TextoA href="https://desenvolvimentodequeimados.netlify.app"><CaixaInicio>Início</CaixaInicio></TextoA>
               
             </Solucoes>
         </CaixaPrincipal>
